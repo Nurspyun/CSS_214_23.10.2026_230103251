@@ -1,0 +1,5 @@
+Student ID:             230103251
+Samples / threads:      40000000 / 4
+Shared PRNG:            pi=3.14147690  error=0.00011575  time=219174.66 ms
+Independent PRNG:       pi=3.14166380  error=0.00007115  time=5029.59 ms
+Speedup (shared/indep): 43.58x
