@@ -1,0 +1,8 @@
+Student ID:        230103251
+Array size:        2000000
+Threads/chunks:    6
+Last element:      serial=11001743  parallel=11001743
+Serial Time (ms):  4.565
+Parallel Time (ms): 3.957
+Speedup:           1.15x
+Verification:      PASS
