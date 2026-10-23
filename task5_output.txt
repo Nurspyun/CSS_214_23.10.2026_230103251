@@ -1,0 +1,10 @@
+Student ID: 230103251
+Logical cores: 12   Tasks: 10000   Rounds/task: 500   Buffer: 1024 bytes
+ Pool Size |  Execution Time (ms) |  Speedup vs 1 thread | Status
+         1 |              5248.98 |                1.00x | SCALING
+         6 |              1033.06 |                5.08x | SCALING
+        12 |               593.68 |                8.84x | SCALING
+        24 |               580.75 |                9.04x | SCALING
+        48 |               600.82 |                8.74x | SCALING
+       192 |               575.30 |                9.12x | SCALING
+       256 |               573.41 |                9.15x | BEST
